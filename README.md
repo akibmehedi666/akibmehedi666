@@ -14,6 +14,10 @@ I am a Computer Science and Engineering student specializing in **Artificial Int
 
 ### Featured Projects
 
+#### [HomelanderAI](https://github.com/Cord1ess/HomelanderAI)
+A multi-modal AI decision support platform for life, health, and critical-illness underwriting. Fuses predictions across 6 specialized model arms (chest X-ray, retinal fundus, 12-lead ECG, mammogram, blood mortality, and BioBERT clinical NLP) with 13 declared-history rules, hash-chained audit logs, and multi-tenant PostgreSQL RLS.  
+`Python 3.12` • `FastAPI` • `React 19` • `TypeScript` • `PyTorch` • `BioBERT` • `PostgreSQL 17`
+
 #### [Bengali Drug-Safety RAG & Hallucination Detection](https://github.com/akibmehedi666/bn-drug-safety-rag)
 A clinical safety verification system for maternal healthcare in Bengali. Combines 384-dimensional multilingual sentence embeddings (`MiniLM-L12-v2`) and hybrid vector search across 302 drug monographs with a classical machine learning classifier (Logistic Regression & Random Forest) to verify faithfulness and detect LLM hallucinations.  
 `Python` • `PyTorch` • `SentenceTransformers` • `Scikit-learn` • `Gemini API`
