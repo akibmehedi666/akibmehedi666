@@ -6,17 +6,21 @@
   </a>
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/akib-mehedi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:akibmehedi666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/akibmehedi666" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square" alt="GitHub" />
-  </a>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=akibmehedi666&label=Views&color=22D3EE&style=flat-square" alt="Views" />
+    <a href="https://github.com/akibmehedi666?tab=followers" target="_blank">
+      <img src="https://img.shields.io/github/followers/akibmehedi666?label=Followers&style=flat-square&color=A78BFA&labelColor=161b22" alt="Followers" />
+    </a>
+    <a href="https://www.linkedin.com/in/akib-mehedi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square" alt="LinkedIn" />
+    </a>
+    <a href="mailto:akibmehedi666@gmail.com">
+      <img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square" alt="Email" />
+    </a>
+    <a href="https://github.com/akibmehedi666" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square" alt="GitHub" />
+    </a>
+  </div>
 </div>
 
 <br/>
