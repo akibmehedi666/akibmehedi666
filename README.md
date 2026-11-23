@@ -2,20 +2,20 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=180&section=header&text=Md.%20Akib%20Mehedi&fontSize=42&fontColor=0d1117" alt="Md. Akib Mehedi" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=CSE+%40+UIU;AI%2FML+%2B+Edge+Vision;RAG+for+Bengali;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&repeat=true&lines=CSE+Student+%40+United+International+University;Building+a+Bengali+drug-safety+RAG;Sub-0.6ms+edge+computer+vision;Full-stack+with+Next.js+and+FastAPI;ICPC+Regional+2025+Participant" alt="Typing SVG" />
   </a>
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/akib-mehedi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=flat-square" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:akibmehedi666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-22D3EE?style=flat-square" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/akibmehedi666" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square" alt="GitHub" />
   </a>
 </div>
 
@@ -31,10 +31,28 @@
       Building reliable RAG pipelines for low-resource languages and low-latency computer vision for edge devices.
     </td>
     <td width="45%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=A78BFA&border_color=22D3EE" alt="Akib's GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&border_color=22D3EE" alt="Akib's GitHub Stats" />
     </td>
   </tr>
 </table>
+
+### Stats
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&border_color=22D3EE" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibmehedi666&layout=compact&langs_count=6&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&hide_border=true&border_color=22D3EE" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=akibmehedi666&hide_border=true&background=0d1117&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&sideNums=c9d1d9&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=A78BFA" alt="GitHub Streak" />
+</div>
 
 ### Skills
 
