@@ -165,50 +165,34 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Cord1ess/HomelanderAI">HomelanderAI</a></b><br/>
-      Multi-modal AI decision support platform for life, health, and critical-illness underwriting fusing 6 model arms, clinical NLP, and 13 deterministic history rules.<br/><br/>
-      <code>Python 3.12</code> &bull; <code>FastAPI</code> &bull; <code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>PyTorch</code> &bull; <code>BioBERT</code> &bull; <code>PostgreSQL 17</code>
+      <a href="https://github.com/Cord1ess/HomelanderAI"><img src="assets/cards/HomelanderAI.svg" alt="HomelanderAI" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/bn-drug-safety-rag">bn-drug-safety-rag</a></b><br/>
-      Clinical safety verification and hallucination detection system for maternal healthcare in Bengali across 302 drug monographs.<br/><br/>
-      <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>SentenceTransformers</code> &bull; <code>Scikit-learn</code> &bull; <code>Gemini API</code>
+      <a href="https://github.com/akibmehedi666/bn-drug-safety-rag"><img src="assets/cards/bn-drug-safety-rag.svg" alt="bn-drug-safety-rag" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/RPS-Semi-Arm">RPS-Semi-Arm</a></b><br/>
-      Real-time computer vision system predicting hand gestures from standard laptop webcams via frame differencing and a custom 115K-parameter CNN with ~0.60ms CPU inference.<br/><br/>
-      <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>OpenCV</code> &bull; <code>NumPy</code> &bull; <code>Edge AI</code>
+      <a href="https://github.com/akibmehedi666/RPS-Semi-Arm"><img src="assets/cards/RPS-Semi-Arm.svg" alt="RPS-Semi-Arm" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/CompeteX">CompeteX</a></b><br/>
-      Interactive web portal for university competitions and tech hackathons featuring Leaflet campus mapping, live leaderboards, and automated matchmaking.<br/><br/>
-      <code>Next.js 16</code> &bull; <code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Leaflet</code> &bull; <code>Tailwind CSS</code>
+      <a href="https://github.com/akibmehedi666/CompeteX"><img src="assets/cards/CompeteX.svg" alt="CompeteX" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/OPERATION-ME">OPERATION-ME</a></b><br/>
-      Tactical mission control, academic planner, and CP tracker with offline-first storage and Supabase PostgreSQL Row Level Security (RLS).<br/><br/>
-      <code>Next.js 14</code> &bull; <code>TypeScript</code> &bull; <code>Supabase (PostgreSQL & Auth)</code> &bull; <code>Playwright</code> &bull; <code>Vitest</code>
+      <a href="https://github.com/akibmehedi666/OPERATION-ME"><img src="assets/cards/OPERATION-ME.svg" alt="OPERATION-ME" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/Eureka">Eureka</a></b><br/>
-      Collaborative academic research paper library and literature review notebook featuring automated arXiv/DOI metadata extraction and PDF ingestion.<br/><br/>
-      <code>Next.js 15</code> &bull; <code>React 19</code> &bull; <code>TypeScript</code> &bull; <code>Prisma ORM</code> &bull; <code>Supabase</code>
+      <a href="https://github.com/akibmehedi666/Eureka"><img src="assets/cards/Eureka.svg" alt="Eureka" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/uiu-routine-builder">uiu-routine-builder</a></b><br/>
-      High-performance academic schedule generator executing a 64-bit bitmask backtracking algorithm inside a dedicated background Web Worker at 60 FPS.<br/><br/>
-      <code>Next.js 14</code> &bull; <code>TypeScript</code> &bull; <code>Web Workers</code> &bull; <code>Tailwind CSS</code> &bull; <code>Vitest</code>
+      <a href="https://github.com/akibmehedi666/uiu-routine-builder"><img src="assets/cards/uiu-routine-builder.svg" alt="uiu-routine-builder" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/akibmehedi666/Team-Karasuno">Team-Karasuno</a></b><br/>
-      Interactive generative art and ambient audio experience running a 500-particle Perlin noise flow field synchronized with Tone.js audio synthesis.<br/><br/>
-      <code>Next.js 16</code> &bull; <code>React 19</code> &bull; <code>p5.js</code> &bull; <code>Tone.js</code> &bull; <code>Tailwind CSS</code>
+      <a href="https://github.com/akibmehedi666/Team-Karasuno"><img src="assets/cards/Team-Karasuno.svg" alt="Team-Karasuno" width="100%"></a>
     </td>
   </tr>
 </table>

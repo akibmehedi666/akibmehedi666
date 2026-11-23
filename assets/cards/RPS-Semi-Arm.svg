@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <clipPath id="card-clip">
+      <rect width="400" height="200" rx="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card-clip)">
+    <rect width="400" height="200" fill="#161b22"/>
+    <rect x="0" y="0" width="4" height="200" fill="#D8B4FE"/>
+  </g>
+  <rect x="0.5" y="0.5" width="399" height="199" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="32" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#22D3EE">RPS-Semi-Arm</text>
+  <rect x="335" y="16" width="47" height="22" rx="6" fill="#49316B" stroke="#D8B4FE" stroke-width="1" stroke-opacity="0.35"/>
+  <text x="358.5" y="27.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" letter-spacing="0.5" fill="#D8B4FE">AI/ML</text>
+  <text x="20" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">Real-time computer vision system predicting hand gestures from</text>
+  <text x="20" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">standard laptop webcams via frame differencing and a custom</text>
+  <text x="20" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">115K-parameter CNN with ~0.60ms CPU inference.</text>
+  <rect x="20" y="164" width="49" height="22" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="44.5" y="175.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Python</text>
+  <rect x="75" y="164" width="54" height="22" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="102.0" y="175.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">PyTorch</text>
+  <rect x="135" y="164" width="56" height="22" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="163.0" y="175.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">OpenCV</text>
+  <rect x="197" y="164" width="50" height="22" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="222.0" y="175.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">NumPy</text>
+  <rect x="253" y="164" width="53" height="22" rx="4" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="279.5" y="175.0" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">Edge AI</text>
+</svg>
