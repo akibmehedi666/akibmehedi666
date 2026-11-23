@@ -29,9 +29,12 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      CSE student at United International University (UIU).<br/><br/>
-      Focusing on Artificial Intelligence, Machine Learning, and high-performance software systems.<br/><br/>
-      Building reliable RAG pipelines for low-resource languages and low-latency computer vision for edge devices.
+      CSE student at United International University, working on AI/ML systems that run reliably under real constraints: low-resource languages, low-latency edge devices, and high-stakes decisions.<br/><br/>
+      <b>Based in:</b> Dhaka, Bangladesh<br/>
+      <b>Studying:</b> BSc in CSE at UIU, graduating November 2027<br/>
+      <b>Focus:</b> AI/ML, edge computer vision, RAG for low-resource languages<br/>
+      <b>Building:</b> HomelanderAI, a team capstone on AI decision support for insurance underwriting<br/>
+      <b>Also into:</b> competitive programming, LFR robotics, CTF
     </td>
     <td width="45%" align="center" valign="middle">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&border_color=22D3EE" alt="Akib's GitHub Stats" />
