@@ -128,14 +128,90 @@
   </tr>
 </table>
 
+### Achievements
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Event</th>
+      <th align="left">Result</th>
+      <th align="center">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><font color="#22D3EE"><b>Competitive Programming</b></font></td>
+      <td>ICPC Dhaka Regional</td>
+      <td>Onsite contest</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Hackathons</b></font></td>
+      <td>PSTU Hackathon</td>
+      <td>Selected for Top 30</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>CoU Hackathon</td>
+      <td>Selected for Top 30</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Robotics</b></font></td>
+      <td>UIU RushHour (Robotics Fest), LFR Segment</td>
+      <td>1st Runner Up</td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bracu Robotics Fest (Traction), LFR Segment</td>
+      <td>Top 10</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Fest, LFR Segment</td>
+      <td>Top 10</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DU Robofest</td>
+      <td>Top 15</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Project Shows</b></font></td>
+      <td>UIU CSE Project Show, AOOP Project</td>
+      <td>3rd</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Project Show, Machine Learning Project</td>
+      <td>4th</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Project Show, Microprocessor Project</td>
+      <td>4th</td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Cybersecurity</b></font></td>
+      <td>BUP CSE Fest 2026, CTF Segment</td>
+      <td>10th</td>
+      <td align="center">2026</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akibmehedi666&bg_color=0d1117&color=A78BFA&line=22D3EE&point=A78BFA&area=true&area_color=22D3EE&hide_border=true" alt="Contribution Graph" />
-
-### Achievements
-
-- ICPC Regional 2025, onsite participant
-- Hackathon participant, team UIU_AlgoWarriors
 
 <br/>
 
