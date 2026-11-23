@@ -50,9 +50,9 @@
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="assets/badges/category-hackathon.svg" alt="HACKATHON" /><br/>
-      <img src="assets/badges/result-top30-hackathon.svg" alt="TOP 30" /><br/>
-      <b>PSTU Hackathon</b><br/>
+      <img src="assets/badges/category-project-shows.svg" alt="PROJECT SHOWS" /><br/>
+      <img src="assets/badges/result-3rd-project-shows.svg" alt="3RD" /><br/>
+      <b>UIU CSE Project Show, AOOP Project</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
