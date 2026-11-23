@@ -1,10 +1,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=180&section=header&text=Md.%20Akib%20Mehedi&fontSize=42&fontColor=0d1117" alt="Md. Akib Mehedi" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&repeat=true&lines=CSE+Student+%40+United+International+University;Building+a+Bengali+drug-safety+RAG;Sub-0.6ms+edge+computer+vision;Full-stack+with+Next.js+and+FastAPI;ICPC+Regional+2025+Participant" alt="Typing SVG" />
-  </a>
-  <br/><br/>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=40&repeat=true&lines=CSE+Student+%40+UIU;AI/ML+and+Edge+Vision;Bengali+Drug-Safety+RAG;Full-Stack:+Next.js+and+FastAPI;ICPC+Dhaka+Regional+2025;LFR+Robotics+1st+Runner+Up" alt="Typing intro" />
+  </p>
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=akibmehedi666&label=Views&color=22D3EE&style=flat-square" alt="Views" />
@@ -45,31 +44,31 @@
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="top">
-      <sub><span style="color:#8b949e">ROBOTICS</span></sub><br/>
+      <img src="https://img.shields.io/badge/ROBOTICS-F472B6?style=flat-square" alt="ROBOTICS" /><br/>
       <img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=for-the-badge" alt="1st Runner Up" /><br/>
       <b>UIU RushHour, LFR Segment</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <sub><span style="color:#8b949e">HACKATHON</span></sub><br/>
+      <img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /><br/>
       <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
       <b>PSTU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <sub><span style="color:#8b949e">HACKATHON</span></sub><br/>
+      <img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /><br/>
       <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
       <b>CoU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <sub><span style="color:#8b949e">PROGRAMMING</span></sub><br/>
+      <img src="https://img.shields.io/badge/PROGRAMMING-A3E635?style=flat-square" alt="PROGRAMMING" /><br/>
       <img src="https://img.shields.io/badge/Onsite-A78BFA?style=for-the-badge" alt="Onsite" /><br/>
       <b>ICPC Dhaka Regional</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <sub><span style="color:#8b949e">CYBERSECURITY</span></sub><br/>
+      <img src="https://img.shields.io/badge/CYBERSECURITY-F87171?style=flat-square" alt="CYBERSECURITY" /><br/>
       <img src="https://img.shields.io/badge/10th-34D399?style=for-the-badge" alt="10th" /><br/>
       <b>BUP CSE Fest 2026, CTF Segment</b><br/>
       <small>2026</small>
@@ -90,13 +89,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><font color="#22D3EE"><b>Competitive Programming</b></font></td>
+      <td><img src="https://img.shields.io/badge/PROGRAMMING-A3E635?style=flat-square" alt="PROGRAMMING" /></td>
       <td>ICPC Dhaka Regional</td>
       <td><img src="https://img.shields.io/badge/Onsite%20contest-A78BFA?style=flat-square" alt="Onsite contest" /></td>
       <td align="center">2025</td>
     </tr>
     <tr>
-      <td><font color="#22D3EE"><b>Hackathons</b></font></td>
+      <td><img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /></td>
       <td>PSTU Hackathon</td>
       <td><img src="https://img.shields.io/badge/Top%2030-22D3EE?style=flat-square" alt="Top 30" /></td>
       <td align="center">2026</td>
@@ -108,7 +107,7 @@
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><font color="#22D3EE"><b>Robotics</b></font></td>
+      <td><img src="https://img.shields.io/badge/ROBOTICS-F472B6?style=flat-square" alt="ROBOTICS" /></td>
       <td>UIU RushHour (Robotics Fest), LFR Segment</td>
       <td><img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=flat-square" alt="1st Runner Up" /></td>
       <td align="center">2025</td>
@@ -132,7 +131,7 @@
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><font color="#22D3EE"><b>Project Shows</b></font></td>
+      <td><img src="https://img.shields.io/badge/PROJECT%20SHOWS-C084FC?style=flat-square" alt="PROJECT SHOWS" /></td>
       <td>UIU CSE Project Show, AOOP Project</td>
       <td><img src="https://img.shields.io/badge/3rd-A78BFA?style=flat-square" alt="3rd" /></td>
       <td align="center">2026</td>
@@ -150,7 +149,7 @@
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><font color="#22D3EE"><b>Cybersecurity</b></font></td>
+      <td><img src="https://img.shields.io/badge/CYBERSECURITY-F87171?style=flat-square" alt="CYBERSECURITY" /></td>
       <td>BUP CSE Fest 2026, CTF Segment</td>
       <td><img src="https://img.shields.io/badge/10th-34D399?style=flat-square" alt="10th" /></td>
       <td align="center">2026</td>
