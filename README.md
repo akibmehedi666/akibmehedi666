@@ -40,42 +40,119 @@
   </tr>
 </table>
 
-### Stats
+### Achievements
 
-<div align="center">
-  <table width="100%">
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=for-the-badge" alt="1st Runner Up" /><br/>
+      <b>UIU RushHour, LFR Segment</b><br/>
+      <small>2025</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
+      <b>PSTU Hackathon</b><br/>
+      <small>2026</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
+      <b>CoU Hackathon</b><br/>
+      <small>2026</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Onsite-A78BFA?style=for-the-badge" alt="Onsite" /><br/>
+      <b>ICPC Dhaka Regional</b><br/>
+      <small>2025</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <thead>
     <tr>
-      <td width="50%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&border_color=22D3EE" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibmehedi666&layout=compact&langs_count=6&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&hide_border=true&border_color=22D3EE" alt="Top Languages" />
-      </td>
+      <th align="left">Category</th>
+      <th align="left">Event</th>
+      <th align="left">Result</th>
+      <th align="center">Year</th>
     </tr>
-  </table>
-</div>
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=akibmehedi666&hide_border=true&background=0d1117&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&sideNums=c9d1d9&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=A78BFA" alt="GitHub Streak" />
-</div>
+  </thead>
+  <tbody>
+    <tr>
+      <td><font color="#22D3EE"><b>Competitive Programming</b></font></td>
+      <td>ICPC Dhaka Regional</td>
+      <td><img src="https://img.shields.io/badge/Onsite%20contest-A78BFA?style=flat-square" alt="Onsite contest" /></td>
+      <td align="center">2025</td>
+    </tr>
+    <tr><td colspan="4"><hr/></td></tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Hackathons</b></font></td>
+      <td>PSTU Hackathon</td>
+      <td><img src="https://img.shields.io/badge/Top%2030-22D3EE?style=flat-square" alt="Top 30" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>CoU Hackathon</td>
+      <td><img src="https://img.shields.io/badge/Top%2030-22D3EE?style=flat-square" alt="Top 30" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr><td colspan="4"><hr/></td></tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Robotics</b></font></td>
+      <td>UIU RushHour (Robotics Fest), LFR Segment</td>
+      <td><img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=flat-square" alt="1st Runner Up" /></td>
+      <td align="center">2025</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bracu Robotics Fest (Traction), LFR Segment</td>
+      <td><img src="https://img.shields.io/badge/Top%2010-22D3EE?style=flat-square" alt="Top 10" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Fest, LFR Segment</td>
+      <td><img src="https://img.shields.io/badge/Top%2010-22D3EE?style=flat-square" alt="Top 10" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>DU Robofest</td>
+      <td><img src="https://img.shields.io/badge/Top%2015-22D3EE?style=flat-square" alt="Top 15" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr><td colspan="4"><hr/></td></tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Project Shows</b></font></td>
+      <td>UIU CSE Project Show, AOOP Project</td>
+      <td><img src="https://img.shields.io/badge/3rd-A78BFA?style=flat-square" alt="3rd" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Project Show, Machine Learning Project</td>
+      <td><img src="https://img.shields.io/badge/4th-A78BFA?style=flat-square" alt="4th" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>UIU CSE Project Show, Microprocessor Project</td>
+      <td><img src="https://img.shields.io/badge/4th-A78BFA?style=flat-square" alt="4th" /></td>
+      <td align="center">2026</td>
+    </tr>
+    <tr><td colspan="4"><hr/></td></tr>
+    <tr>
+      <td><font color="#22D3EE"><b>Cybersecurity</b></font></td>
+      <td>BUP CSE Fest 2026, CTF Segment</td>
+      <td><img src="https://img.shields.io/badge/10th-A78BFA?style=flat-square" alt="10th" /></td>
+      <td align="center">2026</td>
+    </tr>
+  </tbody>
+</table>
 
-### Skills
-
-#### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css&theme=dark&perline=8" alt="Languages" />
-</a>
-
-#### AI / ML
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark&perline=8" alt="AI / ML" />
-</a>
-
-#### Web & Data
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,postgres,supabase,prisma,docker&theme=dark&perline=8" alt="Web & Data" />
-</a>
-
-### Projects
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -128,86 +205,40 @@
   </tr>
 </table>
 
-### Achievements
+### Skills
 
-<table width="100%">
-  <thead>
+#### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,html,css&theme=dark&perline=8" alt="Languages" />
+</a>
+
+#### AI / ML
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark&perline=8" alt="AI / ML" />
+</a>
+
+#### Web & Data
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,postgres,supabase,prisma,docker&theme=dark&perline=8" alt="Web & Data" />
+</a>
+
+### Stats
+
+<div align="center">
+  <table width="100%">
     <tr>
-      <th align="left">Category</th>
-      <th align="left">Event</th>
-      <th align="left">Result</th>
-      <th align="center">Year</th>
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akibmehedi666&hide_border=true&show_icons=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&border_color=22D3EE" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibmehedi666&layout=compact&langs_count=6&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=A78BFA&hide_border=true&border_color=22D3EE" alt="Top Languages" />
+      </td>
     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><font color="#22D3EE"><b>Competitive Programming</b></font></td>
-      <td>ICPC Dhaka Regional</td>
-      <td>Onsite contest</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td><font color="#22D3EE"><b>Hackathons</b></font></td>
-      <td>PSTU Hackathon</td>
-      <td>Selected for Top 30</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>CoU Hackathon</td>
-      <td>Selected for Top 30</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td><font color="#22D3EE"><b>Robotics</b></font></td>
-      <td>UIU RushHour (Robotics Fest), LFR Segment</td>
-      <td>1st Runner Up</td>
-      <td align="center">2025</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Bracu Robotics Fest (Traction), LFR Segment</td>
-      <td>Top 10</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>UIU CSE Fest, LFR Segment</td>
-      <td>Top 10</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>DU Robofest</td>
-      <td>Top 15</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td><font color="#22D3EE"><b>Project Shows</b></font></td>
-      <td>UIU CSE Project Show, AOOP Project</td>
-      <td>3rd</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>UIU CSE Project Show, Machine Learning Project</td>
-      <td>4th</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>UIU CSE Project Show, Microprocessor Project</td>
-      <td>4th</td>
-      <td align="center">2026</td>
-    </tr>
-    <tr>
-      <td><font color="#22D3EE"><b>Cybersecurity</b></font></td>
-      <td>BUP CSE Fest 2026, CTF Segment</td>
-      <td>10th</td>
-      <td align="center">2026</td>
-    </tr>
-  </tbody>
-</table>
+  </table>
+</div>
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=akibmehedi666&hide_border=true&background=0d1117&border=22D3EE&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&sideNums=c9d1d9&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=A78BFA" alt="GitHub Streak" />
+</div>
 
 ### Activity
 
