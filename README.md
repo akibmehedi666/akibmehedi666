@@ -44,32 +44,32 @@
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/ROBOTICS-F472B6?style=flat-square" alt="ROBOTICS" /><br/>
-      <img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=for-the-badge" alt="1st Runner Up" /><br/>
+      <img src="assets/badges/category-robotics.svg" alt="ROBOTICS" /><br/>
+      <img src="assets/badges/result-1st-runner-up-robotics.svg" alt="1ST RUNNER UP" /><br/>
       <b>UIU RushHour, LFR Segment</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /><br/>
-      <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
+      <img src="assets/badges/category-hackathon.svg" alt="HACKATHON" /><br/>
+      <img src="assets/badges/result-top30-hackathon.svg" alt="TOP 30" /><br/>
       <b>PSTU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /><br/>
-      <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
+      <img src="assets/badges/category-hackathon.svg" alt="HACKATHON" /><br/>
+      <img src="assets/badges/result-top30-hackathon.svg" alt="TOP 30" /><br/>
       <b>CoU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/PROGRAMMING-A3E635?style=flat-square" alt="PROGRAMMING" /><br/>
-      <img src="https://img.shields.io/badge/Onsite-A78BFA?style=for-the-badge" alt="Onsite" /><br/>
+      <img src="assets/badges/category-programming.svg" alt="PROGRAMMING" /><br/>
+      <img src="assets/badges/result-onsite-programming.svg" alt="ONSITE" /><br/>
       <b>ICPC Dhaka Regional</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/CYBERSECURITY-F87171?style=flat-square" alt="CYBERSECURITY" /><br/>
-      <img src="https://img.shields.io/badge/10th-34D399?style=for-the-badge" alt="10th" /><br/>
+      <img src="assets/badges/category-cybersecurity.svg" alt="CYBERSECURITY" /><br/>
+      <img src="assets/badges/result-10th-cybersecurity.svg" alt="10TH" /><br/>
       <b>BUP CSE Fest 2026, CTF Segment</b><br/>
       <small>2026</small>
     </td>
@@ -89,69 +89,69 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/PROGRAMMING-A3E635?style=flat-square" alt="PROGRAMMING" /></td>
+      <td><img src="assets/badges/category-programming.svg" alt="PROGRAMMING" /></td>
       <td>ICPC Dhaka Regional</td>
-      <td><img src="https://img.shields.io/badge/Onsite%20contest-A78BFA?style=flat-square" alt="Onsite contest" /></td>
+      <td><img src="assets/badges/result-onsite-programming.svg" alt="ONSITE" /></td>
       <td align="center">2025</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/HACKATHON-60A5FA?style=flat-square" alt="HACKATHON" /></td>
+      <td><img src="assets/badges/category-hackathon.svg" alt="HACKATHON" /></td>
       <td>PSTU Hackathon</td>
-      <td><img src="https://img.shields.io/badge/Top%2030-22D3EE?style=flat-square" alt="Top 30" /></td>
+      <td><img src="assets/badges/result-top30-hackathon.svg" alt="TOP 30" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
       <td></td>
       <td>CoU Hackathon</td>
-      <td><img src="https://img.shields.io/badge/Top%2030-22D3EE?style=flat-square" alt="Top 30" /></td>
+      <td><img src="assets/badges/result-top30-hackathon.svg" alt="TOP 30" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/ROBOTICS-F472B6?style=flat-square" alt="ROBOTICS" /></td>
+      <td><img src="assets/badges/category-robotics.svg" alt="ROBOTICS" /></td>
       <td>UIU RushHour (Robotics Fest), LFR Segment</td>
-      <td><img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=flat-square" alt="1st Runner Up" /></td>
+      <td><img src="assets/badges/result-1st-runner-up-robotics.svg" alt="1ST RUNNER UP" /></td>
       <td align="center">2025</td>
     </tr>
     <tr>
       <td></td>
       <td>Bracu Robotics Fest (Traction), LFR Segment</td>
-      <td><img src="https://img.shields.io/badge/Top%2010-22D3EE?style=flat-square" alt="Top 10" /></td>
+      <td><img src="assets/badges/result-top10-robotics.svg" alt="TOP 10" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
       <td></td>
       <td>UIU CSE Fest, LFR Segment</td>
-      <td><img src="https://img.shields.io/badge/Top%2010-22D3EE?style=flat-square" alt="Top 10" /></td>
+      <td><img src="assets/badges/result-top10-robotics.svg" alt="TOP 10" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
       <td></td>
       <td>DU Robofest</td>
-      <td><img src="https://img.shields.io/badge/Top%2015-22D3EE?style=flat-square" alt="Top 15" /></td>
+      <td><img src="assets/badges/result-top15-robotics.svg" alt="TOP 15" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/PROJECT%20SHOWS-C084FC?style=flat-square" alt="PROJECT SHOWS" /></td>
+      <td><img src="assets/badges/category-project-shows.svg" alt="PROJECT SHOWS" /></td>
       <td>UIU CSE Project Show, AOOP Project</td>
-      <td><img src="https://img.shields.io/badge/3rd-A78BFA?style=flat-square" alt="3rd" /></td>
+      <td><img src="assets/badges/result-3rd-project-shows.svg" alt="3RD" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
       <td></td>
       <td>UIU CSE Project Show, Machine Learning Project</td>
-      <td><img src="https://img.shields.io/badge/4th-A78BFA?style=flat-square" alt="4th" /></td>
+      <td><img src="assets/badges/result-4th-project-shows.svg" alt="4TH" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
       <td></td>
       <td>UIU CSE Project Show, Microprocessor Project</td>
-      <td><img src="https://img.shields.io/badge/4th-A78BFA?style=flat-square" alt="4th" /></td>
+      <td><img src="assets/badges/result-4th-project-shows.svg" alt="4TH" /></td>
       <td align="center">2026</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/CYBERSECURITY-F87171?style=flat-square" alt="CYBERSECURITY" /></td>
+      <td><img src="assets/badges/category-cybersecurity.svg" alt="CYBERSECURITY" /></td>
       <td>BUP CSE Fest 2026, CTF Segment</td>
-      <td><img src="https://img.shields.io/badge/10th-34D399?style=flat-square" alt="10th" /></td>
+      <td><img src="assets/badges/result-10th-cybersecurity.svg" alt="10TH" /></td>
       <td align="center">2026</td>
     </tr>
   </tbody>
