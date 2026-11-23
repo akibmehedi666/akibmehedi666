@@ -45,27 +45,32 @@
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="top">
+      <small><font color="#8b949e">ROBOTICS</font></small><br/>
       <img src="https://img.shields.io/badge/1st%20Runner%20Up-F59E0B?style=for-the-badge" alt="1st Runner Up" /><br/>
       <b>UIU RushHour, LFR Segment</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
+      <small><font color="#8b949e">HACKATHON</font></small><br/>
       <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
       <b>PSTU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
+      <small><font color="#8b949e">HACKATHON</font></small><br/>
       <img src="https://img.shields.io/badge/Top%2030-22D3EE?style=for-the-badge" alt="Top 30" /><br/>
       <b>CoU Hackathon</b><br/>
       <small>2026</small>
     </td>
     <td width="20%" align="center" valign="top">
+      <small><font color="#8b949e">COMPETITIVE PROGRAMMING</font></small><br/>
       <img src="https://img.shields.io/badge/Onsite-A78BFA?style=for-the-badge" alt="Onsite" /><br/>
       <b>ICPC Dhaka Regional</b><br/>
       <small>2025</small>
     </td>
     <td width="20%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/10th-A78BFA?style=for-the-badge" alt="10th" /><br/>
+      <small><font color="#8b949e">CYBERSECURITY</font></small><br/>
+      <img src="https://img.shields.io/badge/10th-22D3EE?style=for-the-badge" alt="10th" /><br/>
       <b>BUP CSE Fest 2026, CTF Segment</b><br/>
       <small>2026</small>
     </td>
